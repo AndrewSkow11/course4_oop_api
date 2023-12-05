@@ -10,6 +10,8 @@ def get_vacancies(keyword):
         "area": 1,  # Specify the desired area ID (1 is Moscow)
         "per_page": 10,  # Number of vacancies per page
     }
+
+
     headers = {
         "User-Agent": "Your User Agent",  # Replace with your User-Agent header
     }
