@@ -22,7 +22,7 @@ def get_vacancies(keyword):
         data = response.json()
         vacancies = data.get("items", [])
         for vacancy in vacancies:
-            # Extract relevant information from the vacancy object
+            # Extract relevant information from the searching_word object
             vacancy_id = vacancy.get("id")
             vacancy_title = vacancy.get("name")
             vacancy_url = vacancy.get("alternate_url")
