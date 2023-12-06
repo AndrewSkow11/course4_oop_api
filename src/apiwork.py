@@ -1,5 +1,4 @@
 from os import getenv
-from datetime import datetime
 from abc import ABC, abstractmethod
 import requests
 
@@ -18,7 +17,6 @@ class ApiWork(ABC):
     @abstractmethod
     def get_vacancies(self, word, top_n):
         pass
-
 
     @staticmethod
     def set_arguments_for_api(number_for_site):
@@ -45,7 +43,7 @@ class ApiWork(ABC):
 
         elif user_input == 1:
             arguments = ApiWork.set_arguments_for_api(1)
-            super_job = SuperjobAPI().get_vacancies(arguments[0], arguments[1])
+            super_job = SuperJobAPI().get_vacancies(arguments[0], arguments[1])
             return super_job
         else:
             print("\nНекорректное значение, повторить ввод ?\ny/n")
@@ -53,7 +51,8 @@ class ApiWork(ABC):
 
 
 class HeadHunterAPI(ApiWork):
-    """Поле класса - базовый URL"""
+    """Поле класса - базовый URL
+    метод get_vacancies позволяет получить список вакансий"""
     url = "https://api.hh.ru/vacancies"
 
     def get_vacancies(self, searching_word, top_n):
@@ -62,24 +61,30 @@ class HeadHunterAPI(ApiWork):
 
         params = {
             "text": searching_word,
-            "per_page": top_n,  # Number of vacancies per page
+            "per_page": top_n,
         }
 
         response = requests.get(self.url, params=params)
+        try:
+            if response.status_code == 200:
+                data = response.json()
+                vacancies = data.get("items", [])
+                print(vacancies)
+                return vacancies
+            else:
+                print(f"Ошибка запроса, код: {response.status_code}")
+        except ConnectionError:
+            print("Что-то не так с сетевым подключением")
 
-        if response.status_code == 200:
-            data = response.json()
-            vacancies = data.get("items", [])
 
-            print(vacancies)
-            return vacancies
-        else:
-            print(f"Request failed with status code: {response.status_code}")
-
-
-class SuperjobAPI(ApiWork):
+class SuperJobAPI(ApiWork):
+    """Поле класса - базовый url
+    метод get_vacancies позволяет получить список вакансий"""
+    url = 'https://api.superjob.ru/2.0/vacancies/'
 
     def get_vacancies(self, searching_word, top_n):
+        """Возвращает список вакансий по искомому слову
+        в соответствии с введённым количеством"""
 
         url = 'https://api.superjob.ru/2.0/vacancies/'
 
@@ -88,12 +93,17 @@ class SuperjobAPI(ApiWork):
         }
 
         try:
-            data = requests.get(url, headers=headers,
+            response = requests.get(url, headers=headers,
                                 params={'keywords': searching_word,
                                         'page': 0,
                                         'count': top_n}).json()
-            print(data['objects'])
-            return data
+            if response.status_code == 200:
+                data = response.json()
+                vacancies = data.get("items", [])
+                print(vacancies)
+                return vacancies
+            else:
+                print(f"Ошибка запроса, код: {response.status_code}")
         except ConnectionError:
             print("Что-то не так с сетевым подключением")
 
