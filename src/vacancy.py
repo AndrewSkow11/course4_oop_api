@@ -1,3 +1,5 @@
+from abc import abstractmethod
+
 # 2
 # Создать класс для работы с вакансиями.
 # В этом классе самостоятельно определить атрибуты,
@@ -30,5 +32,29 @@ class Vacancy:
     # написать магические методы сравнения по зарплате
 
 
+    @abstractmethod
+    def initialize_base_list_of_objects(base_list_of_vacancies):
+        list_of_objects_vacancy = []
+
+        try:
+            # если вакансия от superjob.ru
+            (base_list_of_vacancies[0]['canEdit'])
+            for vacancy in base_list_of_vacancies:
+                list_of_objects_vacancy.append(Vacancy(
+                    vacancy['profession'],
+                    vacancy['link'],
+                    vacancy['payment_from'],
+                    vacancy['experience']['title']))
+            return list_of_objects_vacancy
+
+        except KeyError:
+            # значит вакансия от hh.ru
+            for vacancy in base_list_of_vacancies:
+                list_of_objects_vacancy.append(Vacancy(
+                    vacancy['name'],
+                    vacancy['alternate_url'],
+                    vacancy['salary']['from'],
+                    vacancy['experience']['name']))
+            return list_of_objects_vacancy
 
 

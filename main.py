@@ -16,25 +16,9 @@ base_list_of_vacancies = ApiWork.select_api()
 for vacancy in base_list_of_vacancies:
     print(vacancy)
 
-list_of_objects_vacancy = []
-
-try:
-    # если вакансия от superjob.ru
-    (base_list_of_vacancies[0]['canEdit'])
-    print("superjob.ru")
-
-
-    for vacancy in base_list_of_vacancies:
-        list_of_objects_vacancy.append(Vacancy(
-            vacancy['profession'],
-            vacancy['link'],
-            vacancy['payment_from'],
-            vacancy['experience']['title']))
-except KeyError:
-    # значит вакансия от hh.ru
-    print(base_list_of_vacancies[0]['name'])
-    print("hh.ru")
-
+list_of_objects_vacancy = (Vacancy.
+                           initialize_base_list_of_objects
+                           (base_list_of_vacancies))
 
 for i in list_of_objects_vacancy:
     print(i)
