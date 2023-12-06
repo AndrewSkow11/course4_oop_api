@@ -20,26 +20,24 @@ import requests
 
 class ApiWork(ABC):
     def __init__(self):
-        print("\033[33m	Connecting to API ...\033[0m")
+        print("\033[33mConnecting to API ...\033[0m")
 
     @abstractmethod
-    def get_vacancies(self):
+    def get_vacancies(self, word, top_n):
         pass
-
 
     @staticmethod
     def select_api():
-        user_input = int(input("Если вы хотите получить вакансии с сайта hh.ru "
-                           "введите \033[36m0\n"
-                           "\033[0mЕсли вы хотите получить вакансии с сайта"
-                           "superjob.ru нажмите \033[36m1\n\033[0m>> "))
+        user_input = int(input("Если вы хотите получить вакансии с сайта hh.ru"
+                               " введите \033[36m0\n"
+                               "\033[0mЕсли вы хотите получить вакансии с сайта"
+                               "superjob.ru нажмите \033[36m1\n\033[0m>> "))
 
         if user_input == 0:
             print("\nВы предпочли вакансии с сайта \033[92mhh.ru")
             searching_word = input("\033[0mВведите ключевое слова или фразу"
                                    " искомой вакансии:\n>> ")
             top_n = int(input("Введите количество вакансий для вывода в топ N: "))
-
 
             hh = HeadHunterAPI().get_vacancies(searching_word, top_n)
             return hh
@@ -56,13 +54,10 @@ class ApiWork(ABC):
             return None
 
 
-
 class HeadHunterAPI(ApiWork):
-
     url = "https://api.hh.ru/vacancies"
 
     def get_vacancies(self, searching_word, top_n):
-
 
         params = {
             "text": searching_word,
@@ -74,14 +69,19 @@ class HeadHunterAPI(ApiWork):
         if response.status_code == 200:
             data = response.json()
             vacancies = data.get("items", [])
-            for searching_word in vacancies:
-                # Extract relevant information from the searching_word object
-                vacancy_id = searching_word.get("id")
-                vacancy_title = searching_word.get("name")
-                vacancy_url = searching_word.get("alternate_url")
-                company_name = searching_word.get("employer", {}).get("name")
-                print(f"ID: {vacancy_id}\nTitle: {vacancy_title}\nCompany:"
-                      f" {company_name}\nURL: {vacancy_url}\n")
+
+            print(vacancies)
+            return vacancies
+
+
+            # for searching_word in vacancies:
+            #     # Extract relevant information from the searching_word object
+            #     vacancy_id = searching_word.get("id")
+            #     vacancy_title = searching_word.get("name")
+            #     vacancy_url = searching_word.get("alternate_url")
+            #     company_name = searching_word.get("employer", {}).get("name")
+            #     print(f"ID: {vacancy_id}\nTitle: {vacancy_title}\nCompany:"
+            #           f" {company_name}\nURL: {vacancy_url}\n")
         else:
             print(f"Request failed with status code: {response.status_code}")
 
@@ -94,23 +94,28 @@ class SuperjobAPI(ApiWork):
     #     self.url = 'https://api.superjob.ru/2.0/vacancies/'
 
     def get_vacancies(self, searching_word, top_n):
-        """Выгрузка данных по 'Super_job' по запросам пользователя  по АПИ - ключу и возвращается словарь"""
 
-        self.name = name = searching_word
-        self.page = page = 0
-        self.top_n = top_n
-        self.url = 'https://api.superjob.ru/2.0/vacancies/'
+        url = 'https://api.superjob.ru/2.0/vacancies/'
 
         headers = {
-                    'X-Api-App-Id': getenv('API_KEY_SJ'),
-                }
+            'X-Api-App-Id': getenv('API_KEY_SJ'),
+        }
 
-
-        data = requests.get(self.url, headers=headers,params={'keywords': self.name, 'page': self.page, 'count': self.top_n}).json()
-        return data
+        try:
+            data = requests.get(url, headers=headers,
+                                params={'keywords': searching_word,
+                                        'page': 0,
+                                        'count': top_n}).json()
+            print(data['objects'][0])
+            print(data['objects'][1])
+            return data
+        except ConnectionError:
+            print("Что-то не так с сетевым подключением")
 
     def load_vacancy(self):
-        """Проходим циклом по словарю берем из словаря только нужные нам данные и записываем их в переменную 'vacancy_list_SJ' """
+        """Проходим циклом по словарю берем из словаря
+        только нужные нам данные и записываем их
+        в переменную 'vacancy_list_SJ' """
         data = self.get_vacancies()
         vacancy_list_SJ = []
         for i in data['objects']:
@@ -125,13 +130,9 @@ class SuperjobAPI(ApiWork):
 
             }
             vacancy_list_SJ.append(super_job)
+
+        print(vacancy_list_SJ)
         return vacancy_list_SJ
-
-    def show_vacancy_list(self):
-        list_vacancy_list = self.load_vacancy()
-
-        for i in list_vacancy_list:
-            print(i)
 
 
 ApiWork.select_api()
