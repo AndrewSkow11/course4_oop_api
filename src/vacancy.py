@@ -16,7 +16,8 @@ from abc import abstractmethod
 
 
 class Vacancy:
-    def __init__(self, title, url, salary, experience):
+    def __init__(self, title=None, url=None, salary=None,
+                 experience=None):
         self.title = title
         self.url = url
         self.salary = salary
@@ -31,9 +32,8 @@ class Vacancy:
 
     # написать магические методы сравнения по зарплате
 
-
-    @abstractmethod
-    def initialize_base_list_of_objects(base_list_of_vacancies):
+    @classmethod
+    def initialize_base_list_of_objects(cls, base_list_of_vacancies):
         list_of_objects_vacancy = []
 
         try:
