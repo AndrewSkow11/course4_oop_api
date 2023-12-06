@@ -1,8 +1,0 @@
-Подробнее про API прочитайте в статье «Что такое API»:
-https://timeweb.com/ru/community/.
-
-
-Платформы для сбора вакансий
- hh.ru (ссылка на API: https://github.com/hhru/api)
- superjob.ru (ссылка на API: https://api.superjob.ru/)
-Прежде чем начать использовать API от SuperJob, необходимо зарегистрироваться (https://www.superjob.ru/auth/login/) и получить токен для работы. Подробная инструкция дается по ссылке описания документации в разделе Getting started: https://api.superjob.ru/#gettin. При регистрации приложения можно указать произвольные данные.

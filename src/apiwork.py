@@ -69,7 +69,9 @@ class HeadHunterAPI(ApiWork):
             if response.status_code == 200:
                 data = response.json()
                 vacancies = data.get("items", [])
-                print(vacancies)
+
+                # for v in vacancies:
+                #     print(v)
                 return vacancies
             else:
                 print(f"Ошибка запроса, код: {response.status_code}")
@@ -92,20 +94,27 @@ class SuperJobAPI(ApiWork):
             'X-Api-App-Id': getenv('API_KEY_SJ'),
         }
 
-        try:
-            response = requests.get(url, headers=headers,
-                                params={'keywords': searching_word,
-                                        'page': 0,
-                                        'count': top_n}).json()
-            if response.status_code == 200:
-                data = response.json()
-                vacancies = data.get("items", [])
-                print(vacancies)
-                return vacancies
-            else:
-                print(f"Ошибка запроса, код: {response.status_code}")
-        except ConnectionError:
-            print("Что-то не так с сетевым подключением")
+        params = {'keywords': searching_word,
+                                    'page': 0,
+                                    'count': top_n}
 
 
-ApiWork.select_api()
+            # response = requests.get(url, headers=headers,
+            #                     params={'keywords': searching_word,
+            #                             'page': 0,
+            #                             'count': top_n}).json()
+            # if response.status_code == 200:
+            #     vacancies = response.json()
+            #     # vacancies = data.get("items", [])
+            #     return vacancies
+        vacancies = (requests.get('https://api.superjob.ru/2.0/vacancies/',
+                                headers=headers, params=params).json())
+
+        return vacancies['objects']
+        # except ConnectionError:(
+        #     print("Что-то не так с сетевым подключением"))
+
+        # else:
+        #     print(f"Ошибка запроса, код: {response.status_code}")
+        # except ConnectionError:
+        #     print("Что-то не так с сетевым подключением")

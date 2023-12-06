@@ -7,5 +7,28 @@
 # и валидировать данные, которыми инициализируются его атрибуты.
 
 
+# vacancy = Vacancy("Python Developer",
+# "<https://hh.ru/vacancy/123456>",
+# "100 000-150 000 руб.",
+# "Требования: опыт работы от 3 лет...")
+
+
 class Vacancy:
-    pass
+    def __init__(self, title, url, salary, experience):
+        self.title = title
+        self.url = url
+        self.salary = salary
+        self.experience = experience
+
+    def __str__(self):
+        return (f'\nЗаголовок: {self.title}\n'
+                f'Ссылка: {self.url}\n'
+                f'Зарплата (от): {self.salary}\n'
+                f'Опыт: {self.experience}\n'
+                )
+
+    # написать магические методы сравнения по зарплате
+
+
+
+
