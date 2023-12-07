@@ -20,14 +20,8 @@ class WorkFiles(ABC):
 
 
 class WorkJSON(WorkFiles):
-    def add_vacancy(self, one_vacancy):
-        with open("vacancies.json", 'a'):
-            json.load(one_vacancy)
 
-    @abstractmethod
-    def add_vacancies(self, list_of_vacancy):
+    @classmethod
+    def add_vacancies(cls, list_of_vacancy):
         with open("vacancies.json", 'a'):
             json.loads(list_of_vacancy)
-
-
-

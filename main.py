@@ -1,6 +1,7 @@
 from src.apiwork import ApiWork
 from src.vacancy import Vacancy
-from src.add_file import WorkJSON
+from src.add_to_file import WorkJSON
+import json
 
 # 5
 # Объединить все классы и функции в единую программу.
@@ -19,16 +20,22 @@ list_of_objects_vacancy = (Vacancy.
                            initialize_base_list_of_objects
                            (base_list_of_vacancies))
 
-for i in list_of_objects_vacancy:
-    print(i)
+# показываем для пользователя в отформатированном виде вакансии
+for vacancy in list_of_objects_vacancy:
+    print(vacancy)
+
+
+
+
 
 # Сохранение информации о вакансиях в файл
-# json_saver = WorkJSON()
-# json_saver.add_vacancy(vacancy)
+for vacancy in list_of_objects_vacancy:
+    vacancy_json = json.dumps(vacancy.make_dictionary(), ensure_ascii=False)
+    with open('new_file.json', 'a', encoding='utf-8') as file:
+        file.write(vacancy_json)
+
 # json_saver.get_vacancies_by_salary("100 000-150 000 руб.")
 # json_saver.delete_vacancy(vacancy)
-
-
 
 
 #     filter_words = input("Введите ключевые слова для фильтрации вакансий: ").split()
