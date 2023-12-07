@@ -23,8 +23,8 @@ superjob_vacancies = superjob_api.get_vacancies("Python")
 
 # Сохранение информации о вакансиях в файл
 json_saver = JSONSaver()
-json_saver.add_vacancies(hh_vacancies)
-json_saver.get_vacancies_by_salary(100_000, 150_000)
+json_saver.add_vacancies(superjob_vacancies)
+# json_saver.get_vacancies_by_salary(100_000, 150_000)
 # json_saver.delete_vacancy(vacancy)
 
 def sort_vacancies(vacancies):

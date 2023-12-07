@@ -22,10 +22,6 @@ class JSONSaver:
         with open(self.filename, 'r', encoding='utf-8') as file:
             data = json.load(file)
 
-
-        vacancies_from_json = []
-
-
         vacancies = [Vacancy(x['id'],
                              x['title'],
                              x['url'],

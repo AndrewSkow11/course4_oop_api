@@ -37,10 +37,9 @@ class HeadHunterAPI(ConnectAPI):
 
         print("Тип данных", type(response.json()['items']))
 
-        formatted_vacancies = []
         for vacancy in response.json()['items']:
             salary_from, salary_to = self.get_salary(vacancy['salary'])
-            formatted_vacancies.append({
+            self.vacancies.append({
                 "id": vacancy["id"],
                 "title": vacancy["name"],
                 "url": vacancy["alternate_url"],
@@ -49,24 +48,22 @@ class HeadHunterAPI(ConnectAPI):
                 "employer": vacancy['employer']["name"],
                 "api": "HeadHunter",
             })
-        return formatted_vacancies
+        return self.vacancies
 
-        # return response.json()['items']
-
-    def get_formatted_vacancies(self):
-        formatted_vacancies = []
-        for vacancy in self.vacancies:
-            salary_from, salary_to = self.get_salary(vacancy['salary'])
-            formatted_vacancies.append({
-                "id": vacancy["id"],
-                "title": vacancy["name"],
-                "url": vacancy["alternate_url"],
-                "salary_from": salary_from,
-                "salary_to": salary_to,
-                "employer": vacancy['employer']["name"],
-                "api": "HeadHunter",
-            })
-        return formatted_vacancies
+    # def get_formatted_vacancies(self):
+    #     formatted_vacancies = []
+    #     for vacancy in self.vacancies:
+    #         salary_from, salary_to = self.get_salary(vacancy['salary'])
+    #         formatted_vacancies.append({
+    #             "id": vacancy["id"],
+    #             "title": vacancy["name"],
+    #             "url": vacancy["alternate_url"],
+    #             "salary_from": salary_from,
+    #             "salary_to": salary_to,
+    #             "employer": vacancy['employer']["name"],
+    #             "api": "HeadHunter",
+    #         })
+    #     return formatted_vacancies
 
     # def get_vacancies(self, pages_count=1):
     #     while self.params['page'] < pages_count:
@@ -106,12 +103,10 @@ class SuperJobAPI(ConnectAPI, ABC):
                                 params=params)
         if response.status_code != 200:
             print("Ошибка при обращении к сайту superjob.ru")
-        return response.json()['objects']
+        # return response.json()['objects']
 
-    def get_formatted_vacancies(self):
-        formatted_vacancies = []
-        for vacancy in self.vacancies:
-            formatted_vacancies.append({
+        for vacancy in response.json()['objects']:
+            self.vacancies.append({
                 "id": vacancy["id"],
                 "title": vacancy["profession"],
                 "url": vacancy["link"],
@@ -120,7 +115,22 @@ class SuperJobAPI(ConnectAPI, ABC):
                 "employer": vacancy['firm_name'],
                 "api": "SuperJob",
             })
-        return formatted_vacancies
+        return self.vacancies
+
+
+    # def get_formatted_vacancies(self):
+    #     formatted_vacancies = []
+    #     for vacancy in self.vacancies:
+    #         formatted_vacancies.append({
+    #             "id": vacancy["id"],
+    #             "title": vacancy["profession"],
+    #             "url": vacancy["link"],
+    #             "salary_from": self.get_salary(vacancy['payment_from'], vacancy['currency']),
+    #             "salary_to": self.get_salary(vacancy['payment_to'], vacancy['currency']),
+    #             "employer": vacancy['firm_name'],
+    #             "api": "SuperJob",
+    #         })
+    #     return formatted_vacancies
 
     # def get_vacancies(self, pages_count=1):
     #     while self.params['page'] < pages_count:
