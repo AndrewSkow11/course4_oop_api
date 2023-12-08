@@ -44,7 +44,7 @@ def sort_vacancies(vacancies):
 
 
 
-def get_top_vacancies(vacancies, top_n):
+def print_top_vacancies(vacancies, top_n):
 
     list_of_top_vacancies = []
 
@@ -52,13 +52,8 @@ def get_top_vacancies(vacancies, top_n):
         list_of_top_vacancies.append(vacancies[number])
 
     for vacancy in list_of_top_vacancies:
-        print("_____________")
+        print("\n_____________")
         print(vacancy)
-
-#
-# def print_vacancies(vacancies):
-#     pass
-#
 
 
 # Функция для взаимодействия с пользователем
@@ -77,8 +72,7 @@ def user_interaction():
         return
 
     sorted_vacancies = sort_vacancies(filtered_vacancies)
-    top_vacancies = get_top_vacancies(sorted_vacancies, top_n)
-    # print_vacancies(top_vacancies)
+    print_top_vacancies(sorted_vacancies, top_n)
 
 
 if __name__ == "__main__":
