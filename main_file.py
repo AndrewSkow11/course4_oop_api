@@ -24,7 +24,7 @@ def user_interaction():
     user_input = int(input("Если вы хотите получить вакансии с сайта hh.ru"
                            " введите \033[36m0\n"
                            "\033[0mЕсли вы хотите получить вакансии с сайта"
-                           "superjob.ru нажмите \033[36m1\n\033[0m>> "))
+                           " superjob.ru нажмите \033[36m1\n\033[0m>> "))
 
     platforms = ["HeadHunter", "SuperJob"]
 
@@ -58,7 +58,7 @@ def user_interaction():
 
     elif user_input == 1:
         print(f"\nВы предпочли вакансии с сайта "
-              f"\033[92m{platforms[0]}")
+              f"\033[92m {platforms[1]}")
         superjob_api = SuperJobAPI()
 
         search_query = input("Введите поисковый запрос: ")
