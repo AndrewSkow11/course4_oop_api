@@ -73,15 +73,3 @@ class JSONSaver:
                     vacancies_filter.append(vacancy)
 
         return vacancies_filter
-
-    # def sort_vacancies(self, vacancies):
-    #
-    #
-    # def get_top_vacancies(self, sorted_vacancies, top_n):
-    #     pass
-    #
-    # def print_vacancies(self, vacancies):
-    #     pass
-    #
-
-
