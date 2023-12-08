@@ -41,11 +41,20 @@ def sort_vacancies(vacancies):
     #     print(v)
 
     return vacancies
-#
-#
-# def get_top_vacancies(sorted_vacancies, top_n):
-#     pass
-#
+
+
+
+def get_top_vacancies(vacancies, top_n):
+
+    list_of_top_vacancies = []
+
+    for number in range(top_n):
+        list_of_top_vacancies.append(vacancies[number])
+
+    for vacancy in list_of_top_vacancies:
+        print("_____________")
+        print(vacancy)
+
 #
 # def print_vacancies(vacancies):
 #     pass
@@ -68,7 +77,7 @@ def user_interaction():
         return
 
     sorted_vacancies = sort_vacancies(filtered_vacancies)
-    # top_vacancies = get_top_vacancies(sorted_vacancies, top_n)
+    top_vacancies = get_top_vacancies(sorted_vacancies, top_n)
     # print_vacancies(top_vacancies)
 
 
