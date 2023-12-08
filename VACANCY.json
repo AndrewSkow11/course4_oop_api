@@ -1,902 +1,902 @@
 [
     {
-        "id": "89545694",
-        "title": "Младший программист Python/junior programmer Python",
-        "url": "https://hh.ru/vacancy/89545694",
-        "salary_from": 50000,
-        "salary_to": null,
-        "employer": "Miss X",
-        "api": "HeadHunter"
+        "id": 46845609,
+        "title": "Инженер-конструктор 1-ой категории",
+        "url": "https://krasnodar.superjob.ru/vakansii/inzhener-konstruktor-1-oj-kategorii-46845609.html",
+        "salary_from": 75000,
+        "salary_to": 90000,
+        "employer": "ЮгСтройИнвест",
+        "api": "SuperJob"
     },
     {
-        "id": "89358110",
-        "title": "Стажер-разработчик Python",
-        "url": "https://hh.ru/vacancy/89358110",
-        "salary_from": 40000,
+        "id": 45879358,
+        "title": "Полицейский 1-го специального полка полиции",
+        "url": "https://www.superjob.ru/vakansii/policejskij-1-go-specialnogo-polka-policii-45879358.html",
+        "salary_from": 105000,
         "salary_to": null,
-        "employer": "Blissweb",
-        "api": "HeadHunter"
+        "employer": "ГОС 1-ый специальный полк полиции ГУ МВД России по г. Москве",
+        "api": "SuperJob"
     },
     {
-        "id": "89358111",
-        "title": "Стажер-разработчик Python",
-        "url": "https://hh.ru/vacancy/89358111",
-        "salary_from": 40000,
+        "id": 47382311,
+        "title": "Инженер отдела эксплуатации систем связи (1 категории)",
+        "url": "https://spb.superjob.ru/vakansii/inzhener-otdela-ekspluatacii-sistem-svyazi-47382311.html",
+        "salary_from": 63800,
         "salary_to": null,
-        "employer": "Blissweb",
-        "api": "HeadHunter"
+        "employer": "Федеральная сетевая компания – Россети",
+        "api": "SuperJob"
     },
     {
-        "id": "90459356",
-        "title": "Data Analyst",
-        "url": "https://hh.ru/vacancy/90459356",
+        "id": 48199539,
+        "title": "Инженер 1 категории",
+        "url": "https://zhukov.superjob.ru/vakansii/inzhener-1-kategorii-48199539.html",
+        "salary_from": 60000,
+        "salary_to": 90000,
+        "employer": "КНИРТИ",
+        "api": "SuperJob"
+    },
+    {
+        "id": 37857669,
+        "title": "Инженер по автоматизированным системам управления технологическими процессами 1 категории",
+        "url": "https://norilsk.superjob.ru/vakansii/inzhener-po-avtomatizirovannym-sistemam-upravleniya-tehnologicheskimi-processami-1-kategorii-37857669.html",
         "salary_from": null,
         "salary_to": null,
-        "employer": "Kufar",
-        "api": "HeadHunter"
+        "employer": "НОРНИКЕЛЬ",
+        "api": "SuperJob"
     },
     {
-        "id": "90286142",
-        "title": "Junior Python developer",
-        "url": "https://hh.ru/vacancy/90286142",
-        "salary_from": 50000,
-        "salary_to": null,
-        "employer": "Абакам",
-        "api": "HeadHunter"
+        "id": 33508797,
+        "title": "Водитель пожарной машины ОПЧ-1",
+        "url": "https://tula.superjob.ru/vakansii/voditel-pozharnoj-mashiny-opch-1-33508797.html",
+        "salary_from": 23000,
+        "salary_to": 27000,
+        "employer": "ФКУ ИК-7 УФСИН России по Тульской области",
+        "api": "SuperJob"
     },
     {
-        "id": "90130227",
-        "title": "Программист backend",
-        "url": "https://hh.ru/vacancy/90130227",
+        "id": 39563907,
+        "title": "Слесарь по ремонту оборудования котельных и пылеприготовительных цехов (РСП ТЭЦ-1,2)",
+        "url": "https://norilsk.superjob.ru/vakansii/slesar-po-remontu-oborudovaniya-kotelnyh-i-pyleprigotovitelnyh-cehov-39563907.html",
         "salary_from": null,
+        "salary_to": 110000,
+        "employer": "НОРНИКЕЛЬ",
+        "api": "SuperJob"
+    },
+    {
+        "id": 39358992,
+        "title": "Бухгалтер 1 категории",
+        "url": "https://penza.superjob.ru/vakansii/buhgalter-1-kategorii-39358992.html",
+        "salary_from": 20000,
+        "salary_to": 27000,
+        "employer": "Пензенский городской комплексный центр срочной социальной помощи населению",
+        "api": "SuperJob"
+    },
+    {
+        "id": 35207932,
+        "title": "Водитель Автопогрузчика м. Новочеркасская Янино-1",
+        "url": "https://spb.superjob.ru/vakansii/voditel-avtopogruzchika-m-35207932.html",
+        "salary_from": 62000,
         "salary_to": null,
-        "employer": "GoldenCapital",
-        "api": "HeadHunter"
+        "employer": "Кадрофф",
+        "api": "SuperJob"
     },
     {
-        "id": "90434785",
-        "title": "Стажер Python Dev в SuperApp",
-        "url": "https://hh.ru/vacancy/90434785",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Kcell",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "85423457",
-        "title": "C++ developer (Telecom)",
-        "url": "https://hh.ru/vacancy/85423457",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "YADRO",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90415053",
-        "title": "Стажер-разработчик Python",
-        "url": "https://hh.ru/vacancy/90415053",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "SkyHost",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90356190",
-        "title": "Backend разработчик",
-        "url": "https://hh.ru/vacancy/90356190",
-        "salary_from": 70000,
-        "salary_to": 100000,
-        "employer": "Вервэб",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90282935",
-        "title": "Стажер-разработчик Python",
-        "url": "https://hh.ru/vacancy/90282935",
-        "salary_from": 25000,
-        "salary_to": 25000,
-        "employer": "Атом Безопасность",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90284433",
-        "title": "Junior Python Backend Developer",
-        "url": "https://hh.ru/vacancy/90284433",
-        "salary_from": null,
-        "salary_to": 60000,
-        "employer": "АпТрейдер (UpTrader)",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90415076",
-        "title": "Стажер/разработчик Python",
-        "url": "https://hh.ru/vacancy/90415076",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "SkyHost",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "89299082",
-        "title": "Инженер (веб-разработчик)",
-        "url": "https://hh.ru/vacancy/89299082",
+        "id": 39591543,
+        "title": "Слесарь по ремонту парогазотурбинного оборудования (РСП ТЭЦ-1)",
+        "url": "https://norilsk.superjob.ru/vakansii/slesar-po-remontu-parogazoturbinnogo-oborudovaniya-39591543.html",
         "salary_from": 90000,
         "salary_to": 110000,
-        "employer": "ДГК",
-        "api": "HeadHunter"
+        "employer": "НОРНИКЕЛЬ",
+        "api": "SuperJob"
     },
     {
-        "id": "90442844",
-        "title": "Стажер-тестировщик, Направление инструментов автоматизации",
-        "url": "https://hh.ru/vacancy/90442844",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Ozon",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90311559",
-        "title": "Стажер в аналитику данных",
-        "url": "https://hh.ru/vacancy/90311559",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Beeline, ТМ",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "89400788",
-        "title": "Python-разработчик (junior)",
-        "url": "https://hh.ru/vacancy/89400788",
-        "salary_from": 50000,
-        "salary_to": 60000,
-        "employer": "Целус Менеджмент",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90252342",
-        "title": "Junior Python разработчик",
-        "url": "https://hh.ru/vacancy/90252342",
-        "salary_from": null,
-        "salary_to": 100000,
-        "employer": "МногоБайт",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "89553412",
-        "title": "Стажер-разработчик Python",
-        "url": "https://hh.ru/vacancy/89553412",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Т1 Консалтинг",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "82931752",
-        "title": "DevOps specialist",
-        "url": "https://hh.ru/vacancy/82931752",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "CoMagic.dev",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90311491",
-        "title": "Стажер в аналитику данных",
-        "url": "https://hh.ru/vacancy/90311491",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Beeline, ТМ",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90294131",
-        "title": "Frontend-разработчик (react)",
-        "url": "https://hh.ru/vacancy/90294131",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "ЗОЖ",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90267843",
-        "title": "Программист/Разработчик Python/Django Junior",
-        "url": "https://hh.ru/vacancy/90267843",
-        "salary_from": 50000,
-        "salary_to": 90000,
-        "employer": "CATAPULTO.RU",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90391632",
-        "title": "Frontend-Developer / Фронтенд-Разработчик (React, TypeScript)",
-        "url": "https://hh.ru/vacancy/90391632",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "НТ Прогресс",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "89739184",
-        "title": "Стажер-разработчик Python",
-        "url": "https://hh.ru/vacancy/89739184",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Tefal",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90355981",
-        "title": "Junior Data Scientist",
-        "url": "https://hh.ru/vacancy/90355981",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Моринтех",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90286270",
-        "title": "Стажер Python Fullstack",
-        "url": "https://hh.ru/vacancy/90286270",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Caltat",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90473293",
-        "title": "Разработчик Python",
-        "url": "https://hh.ru/vacancy/90473293",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Форум-групп, Холдинг",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90267240",
-        "title": "Junior+ Frontend developer (React)",
-        "url": "https://hh.ru/vacancy/90267240",
-        "salary_from": 30000,
-        "salary_to": 45000,
-        "employer": "Fly Code",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90204534",
-        "title": "Python-разработчик / Junior Python Developer",
-        "url": "https://hh.ru/vacancy/90204534",
-        "salary_from": 100000,
-        "salary_to": 150000,
-        "employer": "Comexp",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90364349",
-        "title": "Python-разработчик (junior +)",
-        "url": "https://hh.ru/vacancy/90364349",
-        "salary_from": 45000,
-        "salary_to": 60000,
-        "employer": "Центр цифрового развития",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90410451",
-        "title": "Программист-разработчик",
-        "url": "https://hh.ru/vacancy/90410451",
-        "salary_from": 50000,
-        "salary_to": 200000,
-        "employer": "PayTaxi",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90456437",
-        "title": "Python-программист (Python backend developer)",
-        "url": "https://hh.ru/vacancy/90456437",
-        "salary_from": 100000,
-        "salary_to": null,
-        "employer": "Мой Софт",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90399732",
-        "title": "Программист Python",
-        "url": "https://hh.ru/vacancy/90399732",
-        "salary_from": 30000000,
-        "salary_to": null,
-        "employer": "Казахстанские интеллектуальные технологии",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90240004",
-        "title": "Backend-разработчик",
-        "url": "https://hh.ru/vacancy/90240004",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Mirror App",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90310055",
-        "title": "Разработчик на Python",
-        "url": "https://hh.ru/vacancy/90310055",
-        "salary_from": 70000,
-        "salary_to": null,
-        "employer": "Омский НИИ Приборостроения",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90336035",
-        "title": "Front-end разработчик",
-        "url": "https://hh.ru/vacancy/90336035",
-        "salary_from": 90000,
-        "salary_to": 150000,
-        "employer": "АФК, группа компаний",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90015125",
-        "title": "Web-программист - стажер",
-        "url": "https://hh.ru/vacancy/90015125",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Autodata",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90393811",
-        "title": "Системный администратор",
-        "url": "https://hh.ru/vacancy/90393811",
-        "salary_from": 100000,
-        "salary_to": null,
-        "employer": "Группа компаний \"Tundra Group\"",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90262297",
-        "title": "Front-end React-разработчик",
-        "url": "https://hh.ru/vacancy/90262297",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "АКРИХИН",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90333333",
-        "title": "ML разработчик (Python)",
-        "url": "https://hh.ru/vacancy/90333333",
-        "salary_from": 50000,
-        "salary_to": null,
-        "employer": "Скиллтеллект",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "89884680",
-        "title": "Junior Backend разработчик (в международный проект)",
-        "url": "https://hh.ru/vacancy/89884680",
-        "salary_from": 110000,
-        "salary_to": null,
-        "employer": "Reactive Phone",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90340067",
-        "title": "Data Analyst",
-        "url": "https://hh.ru/vacancy/90340067",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Литрес",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90456435",
-        "title": "Python-программист (Python backend developer)",
-        "url": "https://hh.ru/vacancy/90456435",
-        "salary_from": 100000,
-        "salary_to": null,
-        "employer": "Мой Софт",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90380232",
-        "title": "Python разработчик",
-        "url": "https://hh.ru/vacancy/90380232",
-        "salary_from": 120000,
-        "salary_to": null,
-        "employer": "СмартБрик",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90198603",
-        "title": "Лингвист (контентный анализ)",
-        "url": "https://hh.ru/vacancy/90198603",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "INFOWATCH",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90352955",
-        "title": "Python-разработчик",
-        "url": "https://hh.ru/vacancy/90352955",
-        "salary_from": 120000,
-        "salary_to": 150000,
-        "employer": "РусЭкспресс",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90405693",
-        "title": "Программист-разработчик (Воронеж, офис)",
-        "url": "https://hh.ru/vacancy/90405693",
-        "salary_from": 45000,
-        "salary_to": null,
-        "employer": "ФРОМТЕК",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90306401",
-        "title": "Стажер на 3 месяца Системный аналитик",
-        "url": "https://hh.ru/vacancy/90306401",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Kcell",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90454263",
-        "title": "Программист-разработчик",
-        "url": "https://hh.ru/vacancy/90454263",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Информационные системы",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "89897734",
-        "title": "Junior backend разработчик",
-        "url": "https://hh.ru/vacancy/89897734",
-        "salary_from": 60000,
-        "salary_to": 100000,
-        "employer": "RecPlace",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90430162",
-        "title": "Начинающий веб-программист",
-        "url": "https://hh.ru/vacancy/90430162",
-        "salary_from": 8000,
-        "salary_to": 25000,
-        "employer": "Школа цифровых технологий",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90306800",
-        "title": "Junior Программист/Разработчик Python",
-        "url": "https://hh.ru/vacancy/90306800",
-        "salary_from": 60000,
-        "salary_to": null,
-        "employer": "Телеком-Инжиниринг",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90456438",
-        "title": "Python-программист (Python backend developer)",
-        "url": "https://hh.ru/vacancy/90456438",
-        "salary_from": 100000,
-        "salary_to": null,
-        "employer": "Мой Софт",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "89993917",
-        "title": "Junior Python (стажер), имитационное моделирование",
-        "url": "https://hh.ru/vacancy/89993917",
-        "salary_from": 30000,
-        "salary_to": 30000,
-        "employer": "Новый стартап, решения для транспорта",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90370343",
-        "title": "Junior data engineer (отбор по результату задания)",
-        "url": "https://hh.ru/vacancy/90370343",
-        "salary_from": 15000000,
-        "salary_to": null,
-        "employer": "ForteBank",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90430102",
-        "title": "Junior Fronted-разработчик",
-        "url": "https://hh.ru/vacancy/90430102",
-        "salary_from": 8000,
-        "salary_to": 25000,
-        "employer": "Школа цифровых технологий",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90314390",
-        "title": "Python developer",
-        "url": "https://hh.ru/vacancy/90314390",
-        "salary_from": 70000,
+        "id": 39562010,
+        "title": "Электрослесарь по ремонту электрических машин (РСП ТЭЦ-1, ТЭЦ-2)",
+        "url": "https://norilsk.superjob.ru/vakansii/elektroslesar-po-remontu-elektricheskih-mashin-39562010.html",
+        "salary_from": 85000,
         "salary_to": 120000,
-        "employer": "IT-компания Lad",
-        "api": "HeadHunter"
+        "employer": "НОРНИКЕЛЬ",
+        "api": "SuperJob"
     },
     {
-        "id": "88539316",
-        "title": "Back End developer ( Strong Junior/ Middle)",
-        "url": "https://hh.ru/vacancy/88539316",
-        "salary_from": 100000000,
-        "salary_to": 1000000000,
-        "employer": "Raqamli Dunyo",
-        "api": "HeadHunter"
+        "id": 30731960,
+        "title": "Инженер технической поддержки 1-2 линии технической поддержки",
+        "url": "https://khanty-mansiisk.superjob.ru/vakansii/inzhener-tehnicheskoj-podderzhki-1-2-linii-tehnicheskoj-podderzhki-30731960.html",
+        "salary_from": 40000,
+        "salary_to": 60000,
+        "employer": "ХМАО-Югры \"Центр профессиональной патологии\"",
+        "api": "SuperJob"
     },
     {
-        "id": "90345123",
-        "title": "Python developer",
-        "url": "https://hh.ru/vacancy/90345123",
-        "salary_from": null,
-        "salary_to": 120000,
-        "employer": "Russian Robotics",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90323916",
-        "title": "Разработчик Python",
-        "url": "https://hh.ru/vacancy/90323916",
-        "salary_from": null,
+        "id": 39944871,
+        "title": "Сварщик НАКС СК 1,3, НГДО 4",
+        "url": "https://novyi-urengoi.superjob.ru/vakansii/svarschik-naks-sk-1-39944871.html",
+        "salary_from": 150000,
         "salary_to": null,
-        "employer": "РИДЛАБ",
-        "api": "HeadHunter"
+        "employer": "Строительная компания Вега-Траст",
+        "api": "SuperJob"
     },
     {
-        "id": "90203602",
-        "title": "Junior Product Analyst",
-        "url": "https://hh.ru/vacancy/90203602",
+        "id": 31094227,
+        "title": "Полицейский, полицейский-водитель (стаж 1 год за 1,5)",
+        "url": "https://www.superjob.ru/vakansii/policejskij-31094227.html",
         "salary_from": 100000,
         "salary_to": null,
-        "employer": "L’etoile Digital",
-        "api": "HeadHunter"
+        "employer": "2 Специальный полк полиции ГУ МВД России по г. Москве",
+        "api": "SuperJob"
     },
     {
-        "id": "90298284",
-        "title": "Специалист по нейросетям (Computer Vision/ML Engineer)",
-        "url": "https://hh.ru/vacancy/90298284",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "SARTO REALE",
-        "api": "HeadHunter"
+        "id": 41201881,
+        "title": "Контрактный военнослужащий ФКУ ИК-1 УФСИН России по Пензенской области",
+        "url": "https://penza.superjob.ru/vakansii/kontraktnyj-voennosluzhaschij-fku-ik-1-ufsin-rossii-po-penzenskoj-oblasti-41201881.html",
+        "salary_from": 43000,
+        "salary_to": 62000,
+        "employer": "ФКУ ИК-1",
+        "api": "SuperJob"
     },
     {
-        "id": "90459184",
-        "title": "Стажер-аналитик в команду управления клиентским опытом",
-        "url": "https://hh.ru/vacancy/90459184",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Авито",
-        "api": "HeadHunter"
+        "id": 41239241,
+        "title": "Продавец-универсал (г. Уфа, Гагарина,56/1)",
+        "url": "https://ufa.superjob.ru/vakansii/prodavec-universal-41239241.html",
+        "salary_from": 30000,
+        "salary_to": 50000,
+        "employer": "Торговая сеть \"Монетка\"",
+        "api": "SuperJob"
     },
     {
-        "id": "90255577",
-        "title": "Младший аналитик (IT-компания)",
-        "url": "https://hh.ru/vacancy/90255577",
-        "salary_from": null,
-        "salary_to": 54500,
-        "employer": "DSM Group",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90336876",
-        "title": "Data Scientist (специалист по анализу данных)",
-        "url": "https://hh.ru/vacancy/90336876",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Диджей Реплэйсер",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90414408",
-        "title": "Junior IT-cпециалист, удаленно",
-        "url": "https://hh.ru/vacancy/90414408",
-        "salary_from": 100000,
-        "salary_to": null,
-        "employer": "Carshauler",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90221596",
-        "title": "Junior Java Developer",
-        "url": "https://hh.ru/vacancy/90221596",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "SIBERS",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90402632",
-        "title": "Data Scientist / Machine Learning Engineer",
-        "url": "https://hh.ru/vacancy/90402632",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Garage Eight",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90335848",
-        "title": "Python разработчик (django)",
-        "url": "https://hh.ru/vacancy/90335848",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "ГРЧЦ, ФГУП",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90393605",
-        "title": "Стажер продуктовый аналитик",
-        "url": "https://hh.ru/vacancy/90393605",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Samokat.tech",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90418696",
-        "title": "BI/Data- аналитик",
-        "url": "https://hh.ru/vacancy/90418696",
-        "salary_from": 50000000,
-        "salary_to": 60000000,
-        "employer": "Коркем Телеком",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "89447092",
-        "title": "Backend разработчик (Python)",
-        "url": "https://hh.ru/vacancy/89447092",
-        "salary_from": 60000,
-        "salary_to": null,
-        "employer": "Индорс Навигейшн",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90332539",
-        "title": "No-code разработчик",
-        "url": "https://hh.ru/vacancy/90332539",
-        "salary_from": 60000,
-        "salary_to": null,
-        "employer": "Blissweb",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90410117",
-        "title": "Python developer",
-        "url": "https://hh.ru/vacancy/90410117",
-        "salary_from": null,
-        "salary_to": 150000,
-        "employer": "Lenkep recruitment",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "89256461",
-        "title": "Программист (удаленно)",
-        "url": "https://hh.ru/vacancy/89256461",
-        "salary_from": 60000,
-        "salary_to": null,
-        "employer": "Smedia Buying Holding",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "89204058",
-        "title": "Python-разработчик Junior",
-        "url": "https://hh.ru/vacancy/89204058",
-        "salary_from": 75000,
-        "salary_to": null,
-        "employer": "Виармо",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90358680",
-        "title": "Разработчик Python",
-        "url": "https://hh.ru/vacancy/90358680",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Екомселлер",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90431513",
-        "title": "Аналитик данных",
-        "url": "https://hh.ru/vacancy/90431513",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Банк Прио-Внешторгбанк",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "88653114",
-        "title": "Системный администратор",
-        "url": "https://hh.ru/vacancy/88653114",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Киберпротект",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90345176",
-        "title": "Стажер в отдел тестирования (тестировщик)",
-        "url": "https://hh.ru/vacancy/90345176",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Группа компаний Астра",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90420591",
-        "title": "Data Analyst",
-        "url": "https://hh.ru/vacancy/90420591",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Логиклайк",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90392650",
-        "title": "Python разработчик",
-        "url": "https://hh.ru/vacancy/90392650",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Бэнкс Софт Системс",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "89475910",
-        "title": "Junior Python разработчик",
-        "url": "https://hh.ru/vacancy/89475910",
-        "salary_from": 60000,
-        "salary_to": 60000,
-        "employer": "Сириус",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90302780",
-        "title": "Программист Python",
-        "url": "https://hh.ru/vacancy/90302780",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "ОсОО Предприятие №7",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "89410571",
-        "title": "QA engineer (удаленно)",
-        "url": "https://hh.ru/vacancy/89410571",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Межрегиональный ТранзитТелеком (АО МТТ)",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90413464",
-        "title": "Тестировщик",
-        "url": "https://hh.ru/vacancy/90413464",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "КСОР",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90386264",
-        "title": "Data Analyst",
-        "url": "https://hh.ru/vacancy/90386264",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Aston",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90255804",
-        "title": "ML инженер (Data Scientist)",
-        "url": "https://hh.ru/vacancy/90255804",
-        "salary_from": 160000,
-        "salary_to": null,
-        "employer": "ВебСайтСофт",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "88184857",
-        "title": "Intern / Junior Python backend developer",
-        "url": "https://hh.ru/vacancy/88184857",
-        "salary_from": null,
-        "salary_to": 60000,
-        "employer": "Рекруто",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90308400",
-        "title": "QA Python engineer (Стажер)",
-        "url": "https://hh.ru/vacancy/90308400",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Центр финансовых технологий",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90089148",
-        "title": "Стажер-программист Python (full stack)",
-        "url": "https://hh.ru/vacancy/90089148",
-        "salary_from": null,
-        "salary_to": 30000,
-        "employer": "OptimumPrice.ru",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90101433",
-        "title": "Младший разработчик Junior",
-        "url": "https://hh.ru/vacancy/90101433",
-        "salary_from": 60000,
-        "salary_to": null,
-        "employer": "DEPO Computers",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90271722",
-        "title": "Data Analyst",
-        "url": "https://hh.ru/vacancy/90271722",
-        "salary_from": null,
-        "salary_to": 400000,
-        "employer": "Wanted",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "89592470",
-        "title": "Инженер по тестированию (Middle)",
-        "url": "https://hh.ru/vacancy/89592470",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "БОЛЬШАЯ ТРОЙКА",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90374247",
-        "title": "DevOps Junior",
-        "url": "https://hh.ru/vacancy/90374247",
-        "salary_from": 50000,
-        "salary_to": null,
-        "employer": "Траектория",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90419250",
-        "title": "Аналитик данных",
-        "url": "https://hh.ru/vacancy/90419250",
+        "id": 41419589,
+        "title": "Медицинская сестра (на прием врача-онколога, ул. Сосенский стан, дом 8, стр.1)",
+        "url": "https://www.superjob.ru/vakansii/medicinskaya-sestra-41419589.html",
         "salary_from": null,
         "salary_to": 70000,
-        "employer": "Кургандормаш",
-        "api": "HeadHunter"
+        "employer": "ГБУЗ Московский многопрофильный клинический центр \"Коммунарка\" ДЗМ",
+        "api": "SuperJob"
     },
     {
-        "id": "90429018",
-        "title": "Выездной инженер",
-        "url": "https://hh.ru/vacancy/90429018",
-        "salary_from": 40000,
-        "salary_to": null,
-        "employer": "Смарт Мил Сервис",
-        "api": "HeadHunter"
-    },
-    {
-        "id": "90142298",
-        "title": "Data scientist, Pyhon AI(Pytorch) junior",
-        "url": "https://hh.ru/vacancy/90142298",
+        "id": 41661495,
+        "title": "Машинист центрального теплового щита управления котлами (Пиковая котельная) (ТЭЦ-1) АО НТЭК",
+        "url": "https://norilsk.superjob.ru/vakansii/mashinist-centralnogo-teplovogo-schita-upravleniya-kotlami-41661495.html",
         "salary_from": null,
-        "salary_to": 10000,
-        "employer": "БТ21",
-        "api": "HeadHunter"
+        "salary_to": 92000,
+        "employer": "НОРНИКЕЛЬ",
+        "api": "SuperJob"
     },
     {
-        "id": "90215913",
-        "title": "Backend-разработчик, удаленно",
-        "url": "https://hh.ru/vacancy/90215913",
-        "salary_from": 100000,
+        "id": 42060615,
+        "title": "Электромонтер главного щита управления электростанции (ТЭЦ-1, ТЭЦ-3)",
+        "url": "https://norilsk.superjob.ru/vakansii/elektromonter-glavnogo-schita-upravleniya-elektrostancii-42060615.html",
+        "salary_from": null,
+        "salary_to": 91000,
+        "employer": "НОРНИКЕЛЬ",
+        "api": "SuperJob"
+    },
+    {
+        "id": 42529000,
+        "title": "Вахта 3/1 Электромонтер-линейщик по монтажу воздушных линий высокого напряжения",
+        "url": "https://taksimo.superjob.ru/vakansii/vahta-3-42529000.html",
+        "salary_from": null,
         "salary_to": null,
-        "employer": "МП Лаб",
-        "api": "HeadHunter"
+        "employer": "Энергетическое Строительство",
+        "api": "SuperJob"
+    },
+    {
+        "id": 44769881,
+        "title": "Инженер по наладке и испытания силовых сетей и электрооборудования 1 категории",
+        "url": "https://voronezh.superjob.ru/vakansii/inzhener-po-naladke-i-ispytaniya-silovyh-setej-i-elektrooborudovaniya-1-kategorii-44769881.html",
+        "salary_from": 120000,
+        "salary_to": 130000,
+        "employer": "ПримЭлектроМонтаж",
+        "api": "SuperJob"
+    },
+    {
+        "id": 44796345,
+        "title": "Инженер 1 категории (участок по ремонту аппаратуры РЗиА) ТЭЦ-2",
+        "url": "https://norilsk.superjob.ru/vakansii/inzhener-1-kategorii-44796345.html",
+        "salary_from": null,
+        "salary_to": 157000,
+        "employer": "Норникель",
+        "api": "SuperJob"
+    },
+    {
+        "id": 45122442,
+        "title": "Полицейский 1 Специального полка полиции",
+        "url": "https://www.superjob.ru/vakansii/policejskij-1-specialnogo-polka-policii-45122442.html",
+        "salary_from": 105000,
+        "salary_to": null,
+        "employer": "1 Специальный полк полиции",
+        "api": "SuperJob"
+    },
+    {
+        "id": 45170235,
+        "title": "Оператор видео слежения за эскалаторами 1/3",
+        "url": "https://www.superjob.ru/vakansii/operator-video-slezheniya-za-eskalatorami-1-45170235.html",
+        "salary_from": 26000,
+        "salary_to": 26000,
+        "employer": "Виста-Сервис",
+        "api": "SuperJob"
+    },
+    {
+        "id": 45194619,
+        "title": "Врач УЗД (Неврологическое отделение 1)",
+        "url": "https://spb.superjob.ru/vakansii/vrach-uzd-45194619.html",
+        "salary_from": 50000,
+        "salary_to": null,
+        "employer": "ГБУ СПб НИИ СП им. И. И. Джанелидзе",
+        "api": "SuperJob"
+    },
+    {
+        "id": 45627924,
+        "title": "Техник (1 категории)",
+        "url": "https://gatchina.superjob.ru/vakansii/tehnik-45627924.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "НИЦ КУРЧАТОВСКИЙ ИНСТИТУТ-ПИЯФ",
+        "api": "SuperJob"
+    },
+    {
+        "id": 45720485,
+        "title": "Экономист по планированию 1 категории",
+        "url": "https://komsomolsk-na-amure.superjob.ru/vakansii/ekonomist-po-planirovaniyu-1-kategorii-45720485.html",
+        "salary_from": 45000,
+        "salary_to": null,
+        "employer": "Амурский судостроительный завод",
+        "api": "SuperJob"
+    },
+    {
+        "id": 45828206,
+        "title": "Техник по холодильному оборудованию 1/3 (Северо-запад)",
+        "url": "https://www.superjob.ru/vakansii/tehnik-po-holodilnomu-oborudovaniyu-1-45828206.html",
+        "salary_from": 91000,
+        "salary_to": null,
+        "employer": "КуулКлевер (МясновЪ, Отдохни)",
+        "api": "SuperJob"
+    },
+    {
+        "id": 45861816,
+        "title": "Экономист 1 категории",
+        "url": "https://penza.superjob.ru/vakansii/ekonomist-1-kategorii-45861816.html",
+        "salary_from": 38000,
+        "salary_to": null,
+        "employer": "Пензадизельмаш",
+        "api": "SuperJob"
+    },
+    {
+        "id": 46139367,
+        "title": "Инженер по телекоммуникациям участка средств связи и телекоммуникаций (1-2 категориям)",
+        "url": "https://habarovsk.superjob.ru/vakansii/inzhener-po-telekommunikaciyam-uchastka-sredstv-svyazi-i-telekommunikacij-46139367.html",
+        "salary_from": 56000,
+        "salary_to": 65000,
+        "employer": "Водоканал",
+        "api": "SuperJob"
+    },
+    {
+        "id": 46280044,
+        "title": "Специалист по абонентному обслуживанию физических лиц 1 категории",
+        "url": "https://zvenigorod.superjob.ru/vakansii/specialist-po-abonentnomu-obsluzhivaniyu-fizicheskih-lic-1-kategorii-46280044.html",
+        "salary_from": 52000,
+        "salary_to": null,
+        "employer": "Одинцовская теплосеть",
+        "api": "SuperJob"
+    },
+    {
+        "id": 46445235,
+        "title": "Бухгалтер (1 категории)",
+        "url": "https://www.superjob.ru/vakansii/buhgalter-46445235.html",
+        "salary_from": 50000,
+        "salary_to": 60000,
+        "employer": "Центральная поликлиника ФТС России",
+        "api": "SuperJob"
+    },
+    {
+        "id": 46458616,
+        "title": "Дежурный техник по эксплуатации (1/3)",
+        "url": "https://pushkino.superjob.ru/vakansii/dezhurnyj-tehnik-po-ekspluatacii-46458616.html",
+        "salary_from": 60000,
+        "salary_to": 65000,
+        "employer": "Handyman",
+        "api": "SuperJob"
+    },
+    {
+        "id": 46491993,
+        "title": "Матрос 1 класса на танкер",
+        "url": "https://murmansk.superjob.ru/vakansii/matros-1-klassa-na-tanker-46491993.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "НОРНИКЕЛЬ",
+        "api": "SuperJob"
+    },
+    {
+        "id": 46514722,
+        "title": "Инженер 1 категории",
+        "url": "https://surgut.superjob.ru/vakansii/inzhener-1-kategorii-46514722.html",
+        "salary_from": 120000,
+        "salary_to": null,
+        "employer": "ТРАНСНЕФТЬ - АВТОМАТИЗАЦИЯ И МЕТРОЛОГИЯ",
+        "api": "SuperJob"
+    },
+    {
+        "id": 46586041,
+        "title": "Инженер по планированию и организации ремонтной деятельности 1 категории Технического сектора ПТО",
+        "url": "https://ivanovo.superjob.ru/vakansii/inzhener-po-planirovaniyu-i-organizacii-remontnoj-deyatelnosti-1-kategorii-tehnicheskogo-sektora-pto-46586041.html",
+        "salary_from": 110000,
+        "salary_to": 110000,
+        "employer": "КОЛЫМАЭНЕРГО",
+        "api": "SuperJob"
+    },
+    {
+        "id": 46607787,
+        "title": "Инженер по наладке и испытаниям 1 категории",
+        "url": "https://ayhal.superjob.ru/vakansii/inzhener-po-naladke-i-ispytaniyam-1-kategorii-46607787.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "АЛРОСА",
+        "api": "SuperJob"
+    },
+    {
+        "id": 46609104,
+        "title": "Инженер-конструктор (1 категории)",
+        "url": "https://spb.superjob.ru/vakansii/inzhener-konstruktor-46609104.html",
+        "salary_from": null,
+        "salary_to": 85000,
+        "employer": "ЭКРОСХИМ",
+        "api": "SuperJob"
+    },
+    {
+        "id": 46906796,
+        "title": "Инженер 1 категории ПТО",
+        "url": "https://blagoveshensk.superjob.ru/vakansii/inzhener-1-kategorii-pto-46906796.html",
+        "salary_from": 150000,
+        "salary_to": 160000,
+        "employer": "ГСП-1",
+        "api": "SuperJob"
+    },
+    {
+        "id": 46994030,
+        "title": "Матрос 1 класса добычи крупнотоннажного рыбопромыслового судна",
+        "url": "https://habarovsk.superjob.ru/vakansii/matros-1-klassa-dobychi-krupnotonnazhnogo-rybopromyslovogo-sudna-46994030.html",
+        "salary_from": 160000,
+        "salary_to": 200000,
+        "employer": "ОКЕАНРЫБФЛОТ",
+        "api": "SuperJob"
+    },
+    {
+        "id": 47016615,
+        "title": "Экономист (1 категории)",
+        "url": "https://spb.superjob.ru/vakansii/ekonomist-47016615.html",
+        "salary_from": null,
+        "salary_to": 66600,
+        "employer": "СПб ГУП \"Горэлектротранс\"",
+        "api": "SuperJob"
+    },
+    {
+        "id": 47048567,
+        "title": "Инженер (1-3 категории) отдела вспомогательных систем (технологические трубопроводы)",
+        "url": "https://www.superjob.ru/vakansii/inzhener-47048567.html",
+        "salary_from": 80000,
+        "salary_to": 90000,
+        "employer": "Инжиниринговый дивизион госкорпорация \"РОСАТОМ\"",
+        "api": "SuperJob"
+    },
+    {
+        "id": 47199745,
+        "title": "Ведущий инженер-конструктор / Инженер-конструктор 1 категории",
+        "url": "https://kolpino.superjob.ru/vakansii/veduschij-inzhener-konstruktor-47199745.html",
+        "salary_from": 80000,
+        "salary_to": 120000,
+        "employer": "Промышленные Технологии",
+        "api": "SuperJob"
+    },
+    {
+        "id": 45957157,
+        "title": "Инженер отдела эксплуатации и развития систем учета (1 категории)",
+        "url": "https://vladimir.superjob.ru/vakansii/inzhener-otdela-ekspluatacii-i-razvitiya-sistem-ucheta-45957157.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Россети Центр и Приволжье",
+        "api": "SuperJob"
+    },
+    {
+        "id": 47346272,
+        "title": "Дежурный техник электрик (график 1/3)",
+        "url": "https://ekaterinburg.superjob.ru/vakansii/dezhurnyj-tehnik-elektrik-47346272.html",
+        "salary_from": 40000,
+        "salary_to": 40000,
+        "employer": "ФМ Сервис",
+        "api": "SuperJob"
+    },
+    {
+        "id": 47455120,
+        "title": "Мойщик-уборщик подвижного состава 1 разряда",
+        "url": "https://spb.superjob.ru/vakansii/mojschik-uborschik-podvizhnogo-sostava-1-razryada-47455120.html",
+        "salary_from": null,
+        "salary_to": 33560,
+        "employer": "СПб ГУП \"Горэлектротранс\"",
+        "api": "SuperJob"
+    },
+    {
+        "id": 47570438,
+        "title": "Инженер-конструктор 1 категории",
+        "url": "https://ryazan.superjob.ru/vakansii/inzhener-konstruktor-1-kategorii-47570438.html",
+        "salary_from": 78800,
+        "salary_to": null,
+        "employer": "НПО ПКРВ",
+        "api": "SuperJob"
+    },
+    {
+        "id": 47656904,
+        "title": "Почтальон (1 класса)",
+        "url": "https://cherkessk.superjob.ru/vakansii/pochtalon-47656904.html",
+        "salary_from": 18000,
+        "salary_to": 20700,
+        "employer": "Почта России",
+        "api": "SuperJob"
+    },
+    {
+        "id": 47684515,
+        "title": "Участковый геолог 1 категории",
+        "url": "https://magadan.superjob.ru/vakansii/uchastkovyj-geolog-1-kategorii-47684515.html",
+        "salary_from": 213000,
+        "salary_to": null,
+        "employer": "«Золоторудная Компания Павлик»",
+        "api": "SuperJob"
+    },
+    {
+        "id": 47684516,
+        "title": "Участковый геолог 1 категории",
+        "url": "https://samara.superjob.ru/vakansii/uchastkovyj-geolog-1-kategorii-47684516.html",
+        "salary_from": 213000,
+        "salary_to": null,
+        "employer": "«Золоторудная Компания Павлик»",
+        "api": "SuperJob"
+    },
+    {
+        "id": 47684517,
+        "title": "Участковый геолог 1 категории",
+        "url": "https://irkutsk.superjob.ru/vakansii/uchastkovyj-geolog-1-kategorii-47684517.html",
+        "salary_from": 213000,
+        "salary_to": null,
+        "employer": "«Золоторудная Компания Павлик»",
+        "api": "SuperJob"
+    },
+    {
+        "id": 47684518,
+        "title": "Геолог 1 категории",
+        "url": "https://krasnoyarsk.superjob.ru/vakansii/geolog-1-kategorii-47684518.html",
+        "salary_from": 213000,
+        "salary_to": null,
+        "employer": "«Золоторудная Компания Павлик»",
+        "api": "SuperJob"
+    },
+    {
+        "id": 47684519,
+        "title": "Участковый геолог 1 категории",
+        "url": "https://nsk.superjob.ru/vakansii/uchastkovyj-geolog-1-kategorii-47684519.html",
+        "salary_from": 213000,
+        "salary_to": null,
+        "employer": "«Золоторудная Компания Павлик»",
+        "api": "SuperJob"
+    },
+    {
+        "id": 47684520,
+        "title": "Участковый геолог 1 категории",
+        "url": "https://barnaul.superjob.ru/vakansii/uchastkovyj-geolog-1-kategorii-47684520.html",
+        "salary_from": 213000,
+        "salary_to": null,
+        "employer": "«Золоторудная Компания Павлик»",
+        "api": "SuperJob"
+    },
+    {
+        "id": 47684521,
+        "title": "Участковый геолог 1 категории",
+        "url": "https://krasnodar.superjob.ru/vakansii/uchastkovyj-geolog-1-kategorii-47684521.html",
+        "salary_from": 213000,
+        "salary_to": null,
+        "employer": "«Золоторудная Компания Павлик»",
+        "api": "SuperJob"
+    },
+    {
+        "id": 47684522,
+        "title": "Участковый геолог 1 категории",
+        "url": "https://ufa.superjob.ru/vakansii/uchastkovyj-geolog-1-kategorii-47684522.html",
+        "salary_from": 213000,
+        "salary_to": null,
+        "employer": "«Золоторудная Компания Павлик»",
+        "api": "SuperJob"
+    },
+    {
+        "id": 47684523,
+        "title": "Участковый геолог 1 категории",
+        "url": "https://omsk.superjob.ru/vakansii/uchastkovyj-geolog-1-kategorii-47684523.html",
+        "salary_from": 213000,
+        "salary_to": null,
+        "employer": "«Золоторудная Компания Павлик»",
+        "api": "SuperJob"
+    },
+    {
+        "id": 47684524,
+        "title": "Геолог 1 категории",
+        "url": "https://tomsk.superjob.ru/vakansii/geolog-1-kategorii-47684524.html",
+        "salary_from": 213000,
+        "salary_to": null,
+        "employer": "«Золоторудная Компания Павлик»",
+        "api": "SuperJob"
+    },
+    {
+        "id": 47839924,
+        "title": "Инженер (1 категории)",
+        "url": "https://nn.superjob.ru/vakansii/inzhener-47839924.html",
+        "salary_from": 60500,
+        "salary_to": 60500,
+        "employer": "ТНС ЭНЕРГО НН",
+        "api": "SuperJob"
+    },
+    {
+        "id": 42529358,
+        "title": "Продавец-кассир (г. Лобня, ул. Дорожная, д.1)",
+        "url": "https://lobnya.superjob.ru/vakansii/prodavec-kassir-42529358.html",
+        "salary_from": 55000,
+        "salary_to": 66650,
+        "employer": "Фреш Маркет",
+        "api": "SuperJob"
+    },
+    {
+        "id": 47919724,
+        "title": "Контролер-охранник 1/3",
+        "url": "https://krasnogorsk.superjob.ru/vakansii/kontroler-ohrannik-1-47919724.html",
+        "salary_from": 37000,
+        "salary_to": 45000,
+        "employer": "Союзснаб",
+        "api": "SuperJob"
+    },
+    {
+        "id": 47929429,
+        "title": "Водитель на грузовом автомобиле (кузов от 500 кг-1 тонны)",
+        "url": "https://lyubertsy.superjob.ru/vakansii/voditel-na-gruzovom-avtomobile-47929429.html",
+        "salary_from": 120000,
+        "salary_to": 180000,
+        "employer": "Designboom",
+        "api": "SuperJob"
+    },
+    {
+        "id": 47952514,
+        "title": "Менеджер торгового зала/Продавец-консультант (МЦД Немчиновка/авт. ост. Немчиновка-1)",
+        "url": "https://www.superjob.ru/vakansii/menedzher-torgovogo-zala-47952514.html",
+        "salary_from": 60000,
+        "salary_to": null,
+        "employer": "Союзспецодежда",
+        "api": "SuperJob"
+    },
+    {
+        "id": 47968657,
+        "title": "Инженер по транспорту 1 категории",
+        "url": "https://bolshoj-kamen.superjob.ru/vakansii/inzhener-po-transportu-1-kategorii-47968657.html",
+        "salary_from": 69000,
+        "salary_to": null,
+        "employer": "ССК Звезда",
+        "api": "SuperJob"
+    },
+    {
+        "id": 47968658,
+        "title": "Инженер по транспорту 1 категории",
+        "url": "https://tolyatti.superjob.ru/vakansii/inzhener-po-transportu-1-kategorii-47968658.html",
+        "salary_from": 69000,
+        "salary_to": null,
+        "employer": "ССК Звезда",
+        "api": "SuperJob"
+    },
+    {
+        "id": 47968659,
+        "title": "Инженер по транспорту 1 категории",
+        "url": "https://habarovsk.superjob.ru/vakansii/inzhener-po-transportu-1-kategorii-47968659.html",
+        "salary_from": 69000,
+        "salary_to": null,
+        "employer": "ССК Звезда",
+        "api": "SuperJob"
+    },
+    {
+        "id": 48013309,
+        "title": "Медицинская сестра / Медицинский брат процедурной (1-й Конной Армии)",
+        "url": "https://rnd.superjob.ru/vakansii/medicinskaya-sestra-48013309.html",
+        "salary_from": 42000,
+        "salary_to": null,
+        "employer": "Лаборатория Гемотест",
+        "api": "SuperJob"
+    },
+    {
+        "id": 48020340,
+        "title": "Сотрудник Туристической полиции г. Москвы (1 Специальный полк полиции)",
+        "url": "https://reutov.superjob.ru/vakansii/sotrudnik-turisticheskoj-policii-g-48020340.html",
+        "salary_from": 70000,
+        "salary_to": 100000,
+        "employer": "1 СПП",
+        "api": "SuperJob"
+    },
+    {
+        "id": 48020158,
+        "title": "Электромеханик по лифтам 1/3",
+        "url": "https://spb.superjob.ru/vakansii/elektromehanik-po-liftam-1-48020158.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "ТопРендж",
+        "api": "SuperJob"
+    },
+    {
+        "id": 48035026,
+        "title": "Оператор комплекса АВФ или МС-1",
+        "url": "https://habarovsk.superjob.ru/vakansii/operator-kompleksa-avf-ili-ms-1-48035026.html",
+        "salary_from": 80000,
+        "salary_to": 90000,
+        "employer": "Строительная организация СМТ №14 - филиал АО \"РЖДстрой\"",
+        "api": "SuperJob"
+    },
+    {
+        "id": 48037826,
+        "title": "Инженер 1 категории отдела вентиляции",
+        "url": "https://spb.superjob.ru/vakansii/inzhener-1-kategorii-otdela-ventilyacii-48037826.html",
+        "salary_from": 60000,
+        "salary_to": null,
+        "employer": "Санкт-Петербургский горный университет",
+        "api": "SuperJob"
+    },
+    {
+        "id": 48055880,
+        "title": "Водитель-курьер смена от 1 часа ЯЕ",
+        "url": "https://stavropol.superjob.ru/vakansii/voditel-kurer-smena-ot-1-chasa-yae-48055880.html",
+        "salary_from": 125000,
+        "salary_to": null,
+        "employer": "ProfiMonsters",
+        "api": "SuperJob"
+    },
+    {
+        "id": 48074869,
+        "title": "Специалист отдела информационной безопасности и инфраструктуры (1 разряда)",
+        "url": "https://www.superjob.ru/vakansii/specialist-otdela-informacionnoj-bezopasnosti-i-infrastruktury-48074869.html",
+        "salary_from": 50000,
+        "salary_to": null,
+        "employer": "Федеральная антимонопольная служба",
+        "api": "SuperJob"
+    },
+    {
+        "id": 48118041,
+        "title": "Администратор (график 1:3)",
+        "url": "https://tula.superjob.ru/vakansii/administrator-48118041.html",
+        "salary_from": 35000,
+        "salary_to": 40000,
+        "employer": "Jobers",
+        "api": "SuperJob"
+    },
+    {
+        "id": 48154635,
+        "title": "Врач-психиатр (стационар), ТОКПБ 1 им. Н. П. Каменева, г Тула",
+        "url": "https://kostroma.superjob.ru/vakansii/vrach-psihiatr-48154635.html",
+        "salary_from": 70000,
+        "salary_to": 80000,
+        "employer": "Министерство здравоохранения Тульской области",
+        "api": "SuperJob"
+    },
+    {
+        "id": 43167859,
+        "title": "Мастер формовочного цеха (ЖБК-1)",
+        "url": "https://penza.superjob.ru/vakansii/master-formovochnogo-ceha-43167859.html",
+        "salary_from": 42670,
+        "salary_to": null,
+        "employer": "ГК \"Территория жизни\"",
+        "api": "SuperJob"
+    },
+    {
+        "id": 43179335,
+        "title": "Контролер ОТК (ЖБК-1)",
+        "url": "https://penza.superjob.ru/vakansii/kontroler-otk-43179335.html",
+        "salary_from": 38000,
+        "salary_to": null,
+        "employer": "ГК \"Территория жизни\"",
+        "api": "SuperJob"
+    },
+    {
+        "id": 48193544,
+        "title": "Служба по контракту. Контракт на 1 год",
+        "url": "https://www.superjob.ru/vakansii/sluzhba-po-kontraktu-48193544.html",
+        "salary_from": 295000,
+        "salary_to": null,
+        "employer": "ГЕФЕСТ",
+        "api": "SuperJob"
+    },
+    {
+        "id": 48201558,
+        "title": "Водитель-курьер с личным автомобилем (от 300 кг до 1,5 тонн)",
+        "url": "https://www.superjob.ru/vakansii/voditel-kurer-s-lichnym-avtomobilem-48201558.html",
+        "salary_from": 90000,
+        "salary_to": 110000,
+        "employer": "СВС-ЛОГИСТИК",
+        "api": "SuperJob"
+    },
+    {
+        "id": 48202896,
+        "title": "Администратор, Россия, г Уфа, ул Северная, д 2/1",
+        "url": "https://ufa.superjob.ru/vakansii/administrator-48202896.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "FIX-PRICE",
+        "api": "SuperJob"
+    },
+    {
+        "id": 48208372,
+        "title": "Администратор, Сектор торгового зала и кассового обслуживания в Гипермаркет Магнит (Воронеж, Московский, 90/1)",
+        "url": "https://voronezh.superjob.ru/vakansii/administrator-48208372.html",
+        "salary_from": null,
+        "salary_to": 53000,
+        "employer": "Магнит, Розничная сеть",
+        "api": "SuperJob"
+    },
+    {
+        "id": 48208374,
+        "title": "Руководитель сектора, Сектор алкогольных и безалкогольных напитков в Гипермаркет Магнит (Воронеж, Московский, 90/1)",
+        "url": "https://voronezh.superjob.ru/vakansii/rukovoditel-sektora-48208374.html",
+        "salary_from": 53000,
+        "salary_to": 73600,
+        "employer": "Магнит, Розничная сеть",
+        "api": "SuperJob"
+    },
+    {
+        "id": 48208518,
+        "title": "Продавец ХОТУ-АС (ул. Большая 2/1)",
+        "url": "https://habarovsk.superjob.ru/vakansii/prodavec-hotu-as-48208518.html",
+        "salary_from": 58800,
+        "salary_to": 73500,
+        "employer": "Ожогина Александра Андреевна",
+        "api": "SuperJob"
+    },
+    {
+        "id": 29412596,
+        "title": "Специалист 1 разряда отдела камеральных проверок 8",
+        "url": "https://www.superjob.ru/vakansii/specialist-1-razryada-otdela-kameralnyh-proverok-8-29412596.html",
+        "salary_from": 16242,
+        "salary_to": null,
+        "employer": "Инспекция Федеральной налоговой службы № 1 по г. Москве",
+        "api": "SuperJob"
+    },
+    {
+        "id": 33000361,
+        "title": "Экономист 1 категории (отдел контрактов и государственных закупок)",
+        "url": "https://spb.superjob.ru/vakansii/ekonomist-1-kategorii-33000361.html",
+        "salary_from": 65000,
+        "salary_to": 65000,
+        "employer": "ГБУК ЛО Музейное агентство",
+        "api": "SuperJob"
+    },
+    {
+        "id": 28916056,
+        "title": "Врач-инфекционист (инфекционное отделение 1)",
+        "url": "https://spb.superjob.ru/vakansii/vrach-infekcionist-28916056.html",
+        "salary_from": 80000,
+        "salary_to": null,
+        "employer": "ФГБОУ ВО СПбГПМУ Минздрава РФ",
+        "api": "SuperJob"
+    },
+    {
+        "id": 33996096,
+        "title": "Водитель-экспедитор (с личном автомобилем 1,5т и на транспорт компании)",
+        "url": "https://www.superjob.ru/vakansii/voditel-ekspeditor-33996096.html",
+        "salary_from": 60000,
+        "salary_to": null,
+        "employer": "Строймет",
+        "api": "SuperJob"
+    },
+    {
+        "id": 34247456,
+        "title": "Специалист 1 разряда в Отдел эксплуатации локальных вычислительных сетей",
+        "url": "https://www.superjob.ru/vakansii/specialist-1-razryada-v-otdel-ekspluatacii-lokalnyh-vychislitelnyh-setej-34247456.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "МИЦ ПФР",
+        "api": "SuperJob"
+    },
+    {
+        "id": 25118907,
+        "title": "Инженер-электроник 1 категории",
+        "url": "https://spb.superjob.ru/vakansii/inzhener-elektronik-1-kategorii-25118907.html",
+        "salary_from": 85800,
+        "salary_to": null,
+        "employer": "Юго-Западная ТЭЦ",
+        "api": "SuperJob"
+    },
+    {
+        "id": 37103338,
+        "title": "Специалист 1 разряда",
+        "url": "https://www.superjob.ru/vakansii/specialist-1-razryada-37103338.html",
+        "salary_from": 50000,
+        "salary_to": null,
+        "employer": "УФК по г. Москве",
+        "api": "SuperJob"
+    },
+    {
+        "id": 44556788,
+        "title": "Специалист 1 разряда Операционного отдела",
+        "url": "https://www.superjob.ru/vakansii/specialist-1-razryada-operacionnogo-otdela-44556788.html",
+        "salary_from": 35000,
+        "salary_to": null,
+        "employer": "МОУ ФК",
+        "api": "SuperJob"
+    },
+    {
+        "id": 44760084,
+        "title": "Бухгалтер 1 категории",
+        "url": "https://www.superjob.ru/vakansii/buhgalter-1-kategorii-44760084.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Государственный центральный музей современной истории России",
+        "api": "SuperJob"
+    },
+    {
+        "id": 46159109,
+        "title": "Инженер-инспектор сектора обеспечения функций ЦТО по единому номеру (1 категории)",
+        "url": "https://spb.superjob.ru/vakansii/inzhener-inspektor-sektora-obespecheniya-funkcij-cto-po-edinomu-nomeru-46159109.html",
+        "salary_from": 45000,
+        "salary_to": 60000,
+        "employer": "ГКУ СПб ГКУ \"Городской мониторинговый центр\"",
+        "api": "SuperJob"
+    },
+    {
+        "id": 31518545,
+        "title": "Инженер 1 категории",
+        "url": "https://www.superjob.ru/vakansii/inzhener-1-kategorii-31518545.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "\"Корпорация \"СПУ-ЦКБ ТМ\"",
+        "api": "SuperJob"
+    },
+    {
+        "id": 47373976,
+        "title": "Водитель категории С (График 6/1)",
+        "url": "https://www.superjob.ru/vakansii/voditel-kategorii-s-47373976.html",
+        "salary_from": 150000,
+        "salary_to": 200000,
+        "employer": "Розмет",
+        "api": "SuperJob"
+    },
+    {
+        "id": 48076254,
+        "title": "Водитель с автомобилем Г/П 1,5т",
+        "url": "https://www.superjob.ru/vakansii/voditel-s-avtomobilem-g-48076254.html",
+        "salary_from": 300000,
+        "salary_to": 500000,
+        "employer": "ИП Зуськов Давыд Александрович",
+        "api": "SuperJob"
+    },
+    {
+        "id": 48090125,
+        "title": "Электромонтер по ремонту и обслуживанию (1/3)",
+        "url": "https://www.superjob.ru/vakansii/elektromonter-po-remontu-i-obsluzhivaniyu-48090125.html",
+        "salary_from": 51000,
+        "salary_to": 51000,
+        "employer": "Строительные направления",
+        "api": "SuperJob"
+    },
+    {
+        "id": 47727464,
+        "title": "Инженер-конструктор 1 категории",
+        "url": "https://spb.superjob.ru/vakansii/inzhener-konstruktor-1-kategorii-47727464.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Машиностроительный завод Арсенал",
+        "api": "SuperJob"
+    },
+    {
+        "id": 46674496,
+        "title": "Инженер по нормированию труда 1 категории",
+        "url": "https://www.superjob.ru/vakansii/inzhener-po-normirovaniyu-truda-1-kategorii-46674496.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Акционерное общество «Государственное машиностроительное конструкторское бюро «Вымпел» им. И. И. Торопова»",
+        "api": "SuperJob"
+    },
+    {
+        "id": 48193784,
+        "title": "Специалист в области радиационной безопасности, 1 категории",
+        "url": "https://spb.superjob.ru/vakansii/specialist-v-oblasti-radiacionnoj-bezopasnosti-48193784.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "ИЦ Буревестник",
+        "api": "SuperJob"
     }
 ]
